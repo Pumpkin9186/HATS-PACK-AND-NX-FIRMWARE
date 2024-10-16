@@ -10,3 +10,5 @@ This pack includes several components, which is the latest version of Hekate, At
 # LATEST RELEASE ---> https://www.sthetix.info/hats/releases/
 THESE FILES ARE NOT FROM ME
 # THE FILES ARE AT https://www.sthetix.info/hats/releases/ I CAN NOT FIT THEM INTO THIS REPOSITORY
+Sorry for not fitting them into to here :(
+# LATEST NX FIRMWARE https://www.sthetix.info/nx-firmware/
