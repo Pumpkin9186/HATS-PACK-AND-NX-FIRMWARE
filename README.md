@@ -9,3 +9,4 @@ This pack includes several components, which is the latest version of Hekate, At
 4. You will then boot to Hekate. You can just press launch and choose whatever environment you will load.
 # LATEST RELEASE ---> https://www.sthetix.info/hats/releases/
 THESE FILES ARE NOT FROM ME
+# THE FILES ARE AT https://www.sthetix.info/hats/releases/ I CAN NOT FIT THEM INTO THIS REPOSITORY
